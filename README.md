@@ -9,6 +9,7 @@ Suggested approach to establish a code repository for a new publication:
         git config --global user.name "USERNAME"
         git config --global user.email "NAME@DOMAIN.com"
 
+ * It may also be necessary to [generate a new github personal access token](https://github.com/settings/tokens) (as passwords cannot be used to push code)
  * Collect together code/scripts to be made available in one directory. Don't include anything else in this directory
  * Create a **README.md** file describing the code (e.g. using Obsidian on mac)
  * Create a .**gitignore** file to exclude hidden files. Contents as follows:
