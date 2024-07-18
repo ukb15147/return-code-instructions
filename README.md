@@ -1,4 +1,4 @@
-### Instructions for uploading project code to github
+## Instructions for uploading project code to github
 
 Returnable code for UK Biobank approved project 15147 is made publicly available at [https://github.com/ukb15147](https://github.com/ukb15147)
 
