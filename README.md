@@ -1,4 +1,4 @@
-#### Instructions for uploading project code to github
+### Instructions for uploading project code to github
 
 Returnable code for UK Biobank approved project 15147 is made publicly available at [https://github.com/ukb15147](https://github.com/ukb15147)
 
@@ -27,7 +27,7 @@ Suggested approach to establish a code repository for a new publication:
         git commit -m "Initial commit"
         git status
 
- * On github, create a new repository under the **ukb15147** "organisation", giving it a short, suitably descriptive name. Once set up, the front page of this repository will provide a repository URL.
+ * On github, create a new repository under the **ukb15147** "organization", giving it a short, suitably descriptive name. Once set up, the front page of this repository will provide a repository URL.
  * In the local directory, push the code to the github repository.
 
         git branch -M main
