@@ -35,3 +35,5 @@ Suggested approach to establish a code repository for a new publication:
         git push -u origin main
 
  * Check the code is now viewable on github
+
+The github repository can be archived using Zenodo to create a persistent identifier. See the instructions [here](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content). Note that it is important to link the repository to Zenodo _before_ issuing a release of the repository on github.
